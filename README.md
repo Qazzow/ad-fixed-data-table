@@ -1,3 +1,12 @@
+AnswerDash fork of fixed-data-table
+====================================
+
+In order to upgrade to React 15, we needed a version of fixed-data-table which
+allowed it as a peer dependency. Since fixed-data-table seems to be abandoned,
+we will probably want to stop using this package and migrate to something
+simpler or more actively developed.
+
+
 Fixed Data Tables for React
 ====================================
 
